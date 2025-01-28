@@ -90,7 +90,10 @@ If extended, send multiple reviews in a single request:
 ```bash
 curl -X POST -H "Content-Type: application/json" -d '{"reviews": ["This movie was amazing!", "I hated the plot."]}' http://127.0.0.1:5000/predict
 ```
-
+Or you can also run
+```bash
+python predict.py
+```
 ---
 
 ## Model Info
