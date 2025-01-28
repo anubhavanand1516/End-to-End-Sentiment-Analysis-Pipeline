@@ -120,4 +120,3 @@ curl -X POST -H "Content-Type: application/json" -d '{"reviews": ["This movie wa
 
 ---
 
-Feel free to modify or extend this `README.md` based on your project's specifics!
